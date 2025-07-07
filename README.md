@@ -53,7 +53,7 @@ Build an easy-to-understand Excel dashboard that summarizes key market metrics a
 
 Produced a **one-page Excel dashboard** to tell a clear visual story for stakeholders.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 📍 **Tool:** Microsoft Excel
 
